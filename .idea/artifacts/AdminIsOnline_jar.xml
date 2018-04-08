@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AdminIsOnline:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AdminIsOnline_jar</output-path>
+    <root id="archive" name="AdminIsOnline.jar">
+      <element id="module-output" name="AdminIsOnline" />
+    </root>
+  </artifact>
+</component>

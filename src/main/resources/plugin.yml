@@ -1,0 +1,12 @@
+name: "AdminIsOnline"
+version: "1.0.0"
+main: "me.tylergrissom.adminisonline.AdminIsOnlinePlugin"
+
+description: "A tiny plugin which notifies when an admin is online"
+authors: ["Tyler Grissom"]
+website: "http://tyler-g.net"
+
+permissions:
+  aio.notify:
+    description: "Notify when an admin is online."
+    default: op
